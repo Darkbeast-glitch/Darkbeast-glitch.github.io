@@ -1,43 +1,50 @@
-<<<<<<< HEAD
-# mobile-app
-<p>Mobile App is a one page responsive Bootstrap 4 template. This is a free open source theme, you can use our theme for any purpose, even commercially.</p>
+# GinieAI | Ultimate Ghanaian Assistant
 
-Version 1.0.0
+![GinieAI Logo](assets/images/G.png)
 
-# Live Preview
-<a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">View Live Preview</a>
+GinieAI is a smart, voice-activated assistant tailored for Ghanaians. It combines advanced technology with Ghanaian culture, providing practical help and cultural enrichment. Book rides with just your voice, even in local dialects, effortlessly enhancing daily life.
 
-# Download Options
-<ul>
-  <li><a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">Dowload latest version on Themes Bootstrap</a></li>
-  <li>Clone the repo: git clone https://github.com/diegovr7/mobile-app.git</li>
- </ul>
+## Features
 
-# External Resources
-<ul>
-  <li>Iphone by <a href="https://www.behance.net/zituapar11f968">Zee Swift</a> - <a href="https://www.behance.net/gallery/74844509/iphone-mockup-psd-Free-PSD-download">download iphone</a> </li>
-  <li>Ionic Icons (https://ionicons.com/)</li>
-  <li>Google Font <a href="https://fonts.google.com/specimen/Titillium+Web">Titillium Web</a></li>
-</li>
-</ul>
+- Voice-Activated Assistance
+- Effortless Ride Booking
+- Instant Emergency Assistance
+- Local News and Updates
+- Entertainment
+- Cultural Concierge
+- Personalized Recommendations
+- Engagement with Local Heritage
 
-# Bugs and Issues
-Something is wrong with the theme? Let me know. I’ll help you out and fix the bug as soon as possible. Open a new issue here on GitHub, leave a comment on the template overview page at <a href="https://themesbootstrap.com.mx/templates/real-estate-template.html">Themes Bootstrap</a> or send me an email to <a href="contact@themesbootstrap.com.mx">contact@themesbootstrap.com.mx</a>.
+## Getting Started
 
-# About
-Themes Bootstrap is a collection of free to download Bootstrap themes and templates. All templates and themes on Themes Bootstrap are released under the MIT license, you can use them for any purpose, even for commercial projects.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-<ul>
-  <li>https://themesbootstrap.com.mx/</li>
-  <li>https://www.facebook.com/themesbootstrapmx/</li>
- </ul>
- 
-<p>Themes Bootstrap is a project created and maintained by <a href="http://templune.com/">Diego Velázquez</a>, at <a href="https://smartoasis.mx/">Smart Oasis</a></p>
+### Prerequisites
 
-<p>Themes Bootstrap is based on <a href="https://getbootstrap.com/">Bootstrap</a> created by <a href="https://twitter.com/mdo">Mark Otto</a> and <a href="https://twitter.com/fat">Jacob Thorton</a>.</p>
+What things you need to install the software and how to install them.
 
-# Copyright and License
-Copyright (c) 2019 Diego. Code released under the MIT license.
-=======
-# GinieAI
->>>>>>> 42e83524b825082f7570d01deeae82cf660875a6
+### Installing
+
+A step by step series of examples that tell you how to get a development environment running.
+
+## Running the tests
+
+Explain how to run the automated tests for this system.
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system.
+
+## Built With
+
+- [Bootstrap](https://getbootstrap.com/) - The web framework used
+- [Google Fonts](https://fonts.google.com/) - Font library
+- [Ionic Icons](https://ionic.io/ionicons) - Icon library
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
