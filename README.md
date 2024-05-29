@@ -1,1 +1,1 @@
-# Darkbeast-glitch.github.io
+# GinieAI
