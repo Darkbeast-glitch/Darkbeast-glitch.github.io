@@ -1,6 +1,6 @@
 # GinieAI | Ultimate Ghanaian Assistant
 
-![GinieAI Logo](assets/images/G.png)
+![GinieAI Logo](assets/images/Gin.png)
 
 GinieAI is a smart, voice-activated assistant tailored for Ghanaians. It combines advanced technology with Ghanaian culture, providing practical help and cultural enrichment. Book rides with just your voice, even in local dialects, effortlessly enhancing daily life.
 
