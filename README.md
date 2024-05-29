@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mobile-app
 <p>Mobile App is a one page responsive Bootstrap 4 template. This is a free open source theme, you can use our theme for any purpose, even commercially.</p>
 
@@ -37,3 +38,6 @@ Themes Bootstrap is a collection of free to download Bootstrap themes and templa
 
 # Copyright and License
 Copyright (c) 2019 Diego. Code released under the MIT license.
+=======
+# GinieAI
+>>>>>>> 42e83524b825082f7570d01deeae82cf660875a6
